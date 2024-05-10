@@ -61,6 +61,3 @@ My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.
 
 ---
 
-<a href="http://www.coffeete.ir/shima">
-       <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" />
-</a>

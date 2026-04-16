@@ -16,23 +16,15 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=shimafallah&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  hey there
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div id="badges" align="center">
-<img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="300px" alt=""/>
-</div>
-
 ---
 
-### :woman_technologist: About Me :
+### About Me :
 
 My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
 
-- :telescope: I’m working as a Software Engineer and backend for building web applications.
+- I’m working as a Software Engineer and backend developer for building web applications.
 
-- :zap: I'm using PyPI and wrote a package for it [![PyPi Badge](https://img.shields.io/badge/-encryptor-blue?style=flat&logo=PyPi&logoColor=white)](https://pypi.org/project/ash-encrypt/)
+- I'm using PyPI and wrote a package for it [![PyPi Badge](https://img.shields.io/badge/-encryptor-blue?style=flat&logo=PyPi&logoColor=white)](https://pypi.org/project/ash-encrypt/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>

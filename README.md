@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/shima-fallah-05119a1a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/shimafallah" target="_blank">
-<img src="https://img.shields.io/badge/-Github-181717?&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <a href="https://shimafallah.medium.com/" target="_blank">
+<img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
 <a href="mailto:fshima02@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
@@ -16,7 +16,6 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=shimafallah&style=flat-square&color=blue" alt=""/>
 </div>
----
 
 ### About Me :
 
@@ -26,7 +25,7 @@ My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.
 
 - I'm using PyPI and wrote a package for it [![PyPi Badge](https://img.shields.io/badge/-encryptor-blue?style=flat&logo=PyPi&logoColor=white)](https://pypi.org/project/ash-encrypt/)
 ---
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DJANGO-REST">

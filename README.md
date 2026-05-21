@@ -40,7 +40,6 @@ My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.
 	<code><img width="16" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Ubuntu" title="Ubuntu"/></code>
 	<code><img width="16" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="16" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
-	<code><img width="16" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6b5-6e7d-4b2b-b1a8-9e8e8e8e8e8e.png" alt="n8n" title="n8n"/></code>
 	<code><img width="16" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="16" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="16" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="SQLite" title="SQLite"/></code>

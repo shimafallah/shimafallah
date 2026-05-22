@@ -23,7 +23,7 @@
 
 ### About Me :
 
-My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran. 
+My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - I’m working as a Software Engineer and backend developer for building web applications.
 

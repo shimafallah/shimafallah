@@ -28,7 +28,7 @@ My name is **Shima Fallah** and I'm a BackEnd Developer <img src="https://media.
 - I’m working as a Software Engineer and backend developer for building web applications.
 - I wrote a Python package and published it on PyPI [![PyPi Badge](https://img.shields.io/badge/-encryptor-blue?style=flat&logo=PyPI&logoColor=white)](https://pypi.org/project/ash-encrypt/)
 - I developed a GNOME Extension [![GNOME Badge](https://img.shields.io/badge/-Raccoon%20Launcher-black?style=flat&logo=gnome&logoColor=white)](https://extensions.gnome.org/extension/10102/raccoon-launcher/)
-- I developed a Chrome Extension [![Chrome Badge](https://img.shields.io/badge/-ShieldKey-blue?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/shieldkey-%E2%80%94-2fa-authentic/fhpgdpegnobeeaelckegdfjpcjlmgglj)
+- I developed a Chrome Extension [![ShieldKey](https://img.shields.io/badge/-ShieldKey%202FA%20Authenticator-EA4335?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/shieldkey-%E2%80%94-2fa-authentic/fhpgdpegnobeeaelckegdfjpcjlmgglj)
 ---
 ### Languages and Tools :
 
